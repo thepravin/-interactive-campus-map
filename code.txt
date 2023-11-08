@@ -1,0 +1,5 @@
+
+ <p><b>Address :</b> ${place.properties.address}</p>
+
+
+ 
